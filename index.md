@@ -1,9 +1,9 @@
+<!DOCTYPE html>
+<html>
 <body>
   <h1 style="text-align: center;">Welcome to Liang's homepage</h1>
 </body>
-
-<html>
-  <tr>
+<tr>
     <td width="75%">
       <h1>Liang Sun</h1>
       <p><b>Senior Researcher</b></p>
