@@ -1,11 +1,14 @@
-###Personal
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Liang Sun</h1>
+      <p><b>Senior Researcher</b></p>
+      <p><b>ChangHong AI Lab</b></p>
+      <p><b>Email:liang.sun@changhong.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="Liangsun.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
 
-Liang Sun
-Email:liang.sun@changhong.com
-###Education
-
-###Employment
-
-###Research Interests -Arithmetic of Quadratic Forms, Probabilistic Search and Statistical Machine Learning.
-
-###Publications
