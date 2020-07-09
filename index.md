@@ -2,7 +2,7 @@
   <h1 style="text-align: center;">Welcome to Liang's homepage</h1>
 </body>
 
-<table border="0">
+<html>
   <tr>
     <td width="75%">
       <h1>Liang Sun</h1>
@@ -14,5 +14,5 @@
       <img src="Liangsun.jpg" width="100%">      
     </td>
   </tr>
-</table>
+</html>
 
