@@ -11,7 +11,11 @@
     </td>
     <td width="75%">
       <h1>Research Interests</h1>
-      <p><b>Arithmetic of Quadratic Forms, Probabilistic Search and Statistical Machine Learning.</b></p>
+      <p><b>Arithmetic of Quadratic Forms, and Bayesian Statistical Inference.</b></p>
+    </td>
+    <td width="75%">
+      <h1>Publications</h1>
+      <p><b>Class numbers of Quadratic Diophantine Equations, J. Number Theory. \textbf{166} (2016), 181-192.</b></p>
     </td>
     <td width="25%">
       <img src="Liangsun.jpg" width="100%">      
