@@ -15,7 +15,7 @@
     </td>
     <td width="75%">
       <h1>Publications</h1>
-      <p><b>Class numbers of Quadratic Diophantine Equations, J. Number Theory. \textbf{166} (2016), 181-192.</b></p>
+      <p><b>. Class numbers of Quadratic Diophantine Equations, J. Number Theory. 166 (2016), 181-192.</b></p>
     </td>
     <td width="25%">
       <img src="Liangsun.jpg" width="100%">      
